@@ -2,9 +2,8 @@
 
 ---
 
-### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[INSTACART: Online grocery analysis](/View Project)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
