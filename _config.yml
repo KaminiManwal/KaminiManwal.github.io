@@ -1,15 +1,15 @@
 title: Kamini Manwal # your name (or website title) here
 logo: "unnamed.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
- <br>
- A Data analyst with experienced in data cleaning and analyzing in Excel, SQL, and Python. 
-  <br> <br>
-  This portfolio showcases my projects, skills, and dedication to leveraging data to make informed decisions and solve real-world challenges.
+  Data Analyst with experience in data cleaning abd analyzing in SQL, Python and excel.
+  
+  <br><br>This portfolio showcases my projects, skills, and dedication to leveraging data to make informed decisions and solve real-world challenges.
   <br><br>
   <a href="https://www.linkedin.com/in/kaminimanwal/">LinkedIn Profile</a> 
-  <br> 
+  <br>
   <a href="https://github.com/KaminiManwal">GitHub Repo</a> 
   <br>
   
-- jekyll-remote-theme
+  
+theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
