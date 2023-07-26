@@ -6,11 +6,11 @@ description: > # your text below (remove <br> elements if you don't need line br
   Data Analytics Mentor
   <br><br>Data visualisation professional and machine learnig enthusiast
   <br><br>
-  <a href="https://www.linkedin.com/in/katarzyna-anna-wrona/">LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/kaminimanwal/">LinkedIn Profile</a> 
   <br> 
-  <a href="https://github.com/kwro">GitHub Repo</a> 
+  <a href="https://github.com/KaminiManwal">GitHub Repo</a> 
   <br>
-  <a href="https://public.tableau.com/app/profile/kasia.wrona/">Tableau Public</a> 
+  #<a href="https://public.tableau.com/app/profile/kasia.wrona/">Tableau Public</a> 
 
 - jekyll-remote-theme
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
