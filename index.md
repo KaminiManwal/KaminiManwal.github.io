@@ -4,7 +4,7 @@
 
 
 [INSTACART: Online grocery analysis](/View Project)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="1.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
