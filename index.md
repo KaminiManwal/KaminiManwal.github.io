@@ -3,7 +3,7 @@
 ---
 
 
-[INSTACART: Online grocery analysis](/View Project)
+[INSTACART: Online grocery analysis] (https://github.com/KaminiManwal/INSTACART-PYTHON))
 <img src="1.png?raw=true"/>
 
 ---
