@@ -1,11 +1,16 @@
 title: Kamini Manwal # your name (or website title) here
 logo: "unnamed.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-Experienced in data cleaning and analyzing in Excel, SQL, and Python. I specialize in extracting actionable insights from complex datasets, visualizing data for effective communication, and driving data-informed decision-making.
+  Data Scientist at Centralnic PLC<br>
+  Freelance Tableau Developer<br>
+  Data Analytics Mentor
+  <br><br>Data visualisation professional and machine learnig enthusiast
+  <br><br>
+  <a href="https://www.linkedin.com/in/katarzyna-anna-wrona/">LinkedIn Profile</a> 
+  <br>
+  <a href="https://github.com/kwro">GitHub Repo</a> 
+  <br>
+  <a href="https://public.tableau.com/app/profile/kasia.wrona/">Tableau Public</a> 
 
-<a href="https://www.linkedin.com/in/kaminimanwal/">View My LinkedIn Profile</a> 
-  
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
 - jekyll-remote-theme
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
