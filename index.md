@@ -9,13 +9,16 @@
 <img src="1.png?raw=true"/> </p>
 
 ---
-[Rockbuster Stealth](https://github.com/KaminiManwal/ROCKBUSTER-SQL) <br>
+[ROCKBUSTER STEALTH: Answering business questions for an online video rental company](https://github.com/KaminiManwal/ROCKBUSTER-SQL) <br>
 <p style="font-size:12px"> The goal of the project was to assist the Business Intelligence (BI) department to improve sales. My first task was to load Rockbuster's data (approx. 3 MB, that includes 15 tables) into a relational database management system (RDBMS). Then, I utilized SQL queries to analyze the data and address business questions. To visualize the findings, I employed Tableau, resulting in insights such as the revelation that the revenue gain from the top 10 nations with the highest number of customer accounts accounted for 52% of the total revenue gain. Additionally, I identified the top 10 movies that contributed the 3% to the revenue gain. Based on these insights, the recommendation is to prioritize countries with the majority of customers and focus on the top revenue-generating movies.
 <br><br>
 <img src="3.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[INFLUENZA: Preparing for flu season in US](http://example.com/) <br>
+<p style="font-size:12px"> : The goal of the analysis was to assist a medical staff agency in providing temporary workers during the Influenza season in the US. To achieve this, I analyzed demographic data from 2009 to 2017 across 50 states. The analysis involved tasks such as data wrangling, transforming data, integrating two datasets, and deriving new variables. Utilizing Tableau for visualization, I presented insights on the top states affected by Influenza in the 65+ age group, as well as the peak season (December to April) of influenza. These findings helped the medical staff agency in effectively allocating temporary workers based on the identified trends.
+<br><br>
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
