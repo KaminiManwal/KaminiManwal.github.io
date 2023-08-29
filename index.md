@@ -15,8 +15,8 @@
 <img src="3.png?raw=true"/>
 
 ---
-[INFLUENZA: Preparing for flu season in US](http://example.com/) <br>
-<p style="font-size:12px"> : The goal of the analysis was to assist a medical staff agency in providing temporary workers during the Influenza season in the US. To achieve this, I analyzed demographic data from 2009 to 2017 across 50 states. The analysis involved tasks such as data wrangling, transforming data, integrating two datasets, and deriving new variables. Utilizing Tableau for visualization, I presented insights on the top states affected by Influenza in the 65+ age group, as well as the peak season (December to April) of influenza. These findings helped the medical staff agency in effectively allocating temporary workers based on the identified trends.
+[INFLUENZA: Preparing for flu season in US](/pdf/Influenza.pdf) <br>
+<p style="font-size:12px"> The goal of the analysis was to assist a medical staff agency in providing temporary workers during the Influenza season in the US. To achieve this, I analyzed demographic data from 2009 to 2017 across 50 states. The analysis involved tasks such as data wrangling, transforming data, integrating two datasets, and deriving new variables. Utilizing Tableau for visualization, I presented insights on the top states affected by Influenza in the 65+ age group, as well as the peak season (December to April) of influenza. These findings helped the medical staff agency in effectively allocating temporary workers based on the identified trends.
 <br><br>
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
