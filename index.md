@@ -19,13 +19,16 @@
 <p style="font-size:12px"> The goal of the analysis was to assist a medical staff agency in providing temporary workers during the Influenza season in the US. To achieve this, I analyzed demographic data from 2009 to 2017 across 50 states. The analysis involved tasks such as data wrangling, transforming data, integrating two datasets, and deriving new variables. Utilizing Tableau for visualization, I presented insights on the top states affected by Influenza in the 65+ age group, as well as the peak season (December to April) of influenza. These findings helped the medical staff agency in effectively allocating temporary workers based on the identified trends.
 <br><br>
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/dummy_thumbnail.jpg?raw=true"/> </p>
 
 ---
+[GAMECO: Marketing budget planning](/pdf/GameCo.pdf) <br>
+<p style="font-size:12px"> The objective of the analysis was to support managers with making informed decision about marketing budget distribution for the next year. In order todrive actionable insights, I analyzed transactional data from the past 20 years, taking into accountdifferent dimensions like time, region, product platform and genre. I performed EDA (exploratory data analysis) trying to visualize how distributions of different dimensions changed over time. That led me to conclusion that initial assumptions of the project were faulty and the best way how to split marketing budget was to follow the top 5 genres and platforms trend from the past 3 years.
+<br><br>
 
-### Category Name 2
+ <img src="images/dummy_thumbnail.jpg?raw=true"/> </p> 
 
-- [Project 1 Title](http://example.com/)
+ 
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
