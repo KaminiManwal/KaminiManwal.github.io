@@ -3,10 +3,10 @@
 ---
 
 
-[INSTACART: Marketing strategy for an online grocery store](/pdf/Instcart.pdf) <br>
+[INSTACART: Marketing strategy for an online grocery store] <br>
 <p style="font-size:12px"> Conducted an exploratory data analysis and derive insights for improved customer segmentation, I analyzed over 800,000+ customer records. The analysis involved segmenting customer behaviors based on demographic information to optimize marketing campaigns. I performed data wrangling, merged datasets, derived new variables, and designed charts to uncover key insights. One notable finding was that the top three departments accounted for 51% of sales, while the bottom 5 departments contributed only 1% of sales. Based on these findings, it is recommended to allocate advertising efforts accordingly. Additionally, scheduling ads on the least busy days, such as Tuesday and Wednesday, can be beneficial.
 <br><br>
-<img src="1.png?raw=true"/> </p>
+</p>
 
 ---
 [ROCKBUSTER STEALTH: Answering business questions for an online video rental company](/pdf/Rockbuster.pdf) <br>
