@@ -23,24 +23,21 @@
 
 ---
 [GAMECO: Marketing budget planning](/pdf/GameCo.pdf) <br>
-<p style="font-size:12px"> The objective of the analysis was to support managers with making informed decision about marketing budget distribution for the next year. In order todrive actionable insights, I analyzed transactional data from the past 20 years, taking into accountdifferent dimensions like time, region, product platform and genre. I performed EDA (exploratory data analysis) trying to visualize how distributions of different dimensions changed over time. That led me to conclusion that initial assumptions of the project were faulty and the best way how to split marketing budget was to follow the top 5 genres and platforms trend from the past 3 years.
+<p style="font-size:12px"> The objective of the analysis was to support managers with making informed decision about marketing budget distribution for the next year. In order todrive actionable insights, I analyzed transactional data from the past 20 years, taking into account different dimensions like time, region, product platform and genre. I performed EDA (exploratory data analysis) trying to visualize how distributions of different dimensions changed over time. That led me to conclusion that initial assumptions of the project were faulty and the best way how to split marketing budget was to follow the top 5 genres and platforms trend from the past 3 years.
 <br><br>
 
  <img src="images/dummy_thumbnail.jpg?raw=true"/> </p> 
 
  ---
 [Rental property in Germany](/pdf/Rental.pdf) <br>
-<p style="font-size:12px"> ‘Rental property in Germany’ is a comprehensive exploration and analysis of the rental estate market in Germany. This project aims to gain insights into various aspects of rental properties, including pricing trends, location preferences, property types and more, by leveraging a rich dataset sourced from immoscout24, one of Germany’s leading real estate platforms.
-The goal of the analysis was to analyse the rental estate market in Germany. To achieve this,
+<p style="font-size:12px"> ‘Rental property in Germany’ is a comprehensive exploration and analysis of the rental estate market in Germany. This project aims to gain insights into various aspects of rental properties, including pricing trends, location preferences, property types and more, by leveraging a rich dataset sourced from immoscout24, one of Germany’s leading real estate platforms. <br>
+The goal of the analysis was to analyse the rental estate market in Germany. To achieve this, <br>
 I conducted an EDA & describe patterns in the data such as establish correlation & decide which of them to take further. 
 Formulate a hypothesis & conduct a regression analysis to test the model.
 Conduct a cluster analysis using K-means to identify groupings in the data.
 Illustrate total rent in Germany using  geographical analysis.
 <br><br>
 
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
