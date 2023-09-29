@@ -28,8 +28,16 @@
 
  <img src="images/dummy_thumbnail.jpg?raw=true"/> </p> 
 
- 
-- [Project 2 Title](http://example.com/)
+ ---
+[Rental property in Germany](/pdf/Rental.pdf) <br>
+<p style="font-size:12px"> ‘Rental property in Germany’ is a comprehensive exploration and analysis of the rental estate market in Germany. This project aims to gain insights into various aspects of rental properties, including pricing trends, location preferences, property types and more, by leveraging a rich dataset sourced from immoscout24, one of Germany’s leading real estate platforms.
+The goal of the analysis was to analyse the rental estate market in Germany. To achieve this,
+I conducted an EDA & describe patterns in the data such as establish correlation & decide which of them to take further. 
+Formulate a hypothesis & conduct a regression analysis to test the model.
+Conduct a cluster analysis using K-means to identify groupings in the data.
+Illustrate total rent in Germany using  geographical analysis.
+<br><br>
+
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
