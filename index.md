@@ -49,7 +49,9 @@ Formulate a hypothesis & conduct a regression analysis to test the model.
 Conduct a cluster analysis using K-means to identify groupings in the data.
 Illustrate total rent in Germany using  geographical analysis.
 <br><br>
-
+<img src="images/Rental.png?raw=true"/> 
+<br><br>
+<img src="images/Rental_1.png?raw=true"/> 
 
 ---
 
