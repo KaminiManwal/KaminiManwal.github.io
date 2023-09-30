@@ -8,14 +8,17 @@
 <br><br>
 <img src="images/Screenshot 2023-07-26 220101.png?raw=true"/>
 <br><br>
- <img src="images/Instcart.PNG?raw=true"/>
+<img src="images/Instcart.PNG?raw=true"/>
 </p>
 
 ---
 [ROCKBUSTER STEALTH: Answering business questions for an online video rental company](/pdf/Rockbuster.pdf) <br>
 <p style="font-size:12px"> The goal of the project was to assist the Business Intelligence (BI) department to improve sales. My first task was to load Rockbuster's data (approx. 3 MB, that includes 15 tables) into a relational database management system (RDBMS). Then, I utilized SQL queries to analyze the data and address business questions. To visualize the findings, I employed Tableau, resulting in insights such as the revelation that the revenue gain from the top 10 nations with the highest number of customer accounts accounted for 52% of the total revenue gain. Additionally, I identified the top 10 movies that contributed the 3% to the revenue gain. Based on these insights, the recommendation is to prioritize countries with the majority of customers and focus on the top revenue-generating movies.
 <br><br>
-<img src="images/ERD.png?raw=true"/> </p>
+<img src="images/ERD.png?raw=true"/> 
+ <br><br>
+<img src="images/rockbuster.png?raw=true"/> 
+</p>
 
 ---
 [INFLUENZA: Preparing for flu season in US](/pdf/Influenza.pdf) <br>
