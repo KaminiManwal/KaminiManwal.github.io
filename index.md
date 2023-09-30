@@ -8,7 +8,7 @@
 <br><br>
 <img src="images/Screenshot 2023-07-26 220101.png?raw=true"/>
 <br><br>
- <img src="images/Instacart.png?raw=true"/>
+ <img src="images/Instcart.png?raw=true"/>
 </p>
 
 ---
