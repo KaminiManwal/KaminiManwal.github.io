@@ -32,10 +32,13 @@
 
 ---
 [GAMECO: Marketing budget planning](/pdf/GameCo.pdf) <br>
-<p style="font-size:12px"> The objective of the analysis was to support managers with making informed decision about marketing budget distribution for the next year. In order todrive actionable insights, I analyzed transactional data from the past 20 years, taking into account different dimensions like time, region, product platform and genre. I performed EDA (exploratory data analysis) trying to visualize how distributions of different dimensions changed over time. That led me to conclusion that initial assumptions of the project were faulty and the best way how to split marketing budget was to follow the top 5 genres and platforms trend from the past 3 years.
+<p style="font-size:12px"> The objective of the analysis was to support managers with making informed decision about marketing budget distribution for the next year. In order to drive actionable insights, I analyzed transactional data from the past 20 years, taking into account different dimensions like time, region, product platform and genre. I performed EDA (exploratory data analysis) trying to visualize how distributions of different dimensions changed over time. That led me to conclusion that initial assumptions of the project were faulty and the best way how to split marketing budget was to follow the top 5 genres and platforms trend from the past 3 years.
 <br><br>
+<img src="images/GameCo.png?raw=true"/> 
+<br><br>
+<img src="images/GameCo_1.png?raw=true"/> 
 
- <img src="images/dummy_thumbnail.jpg?raw=true"/> </p> 
+</p> 
 
  ---
 [Rental property in Germany](/pdf/Rental.pdf) <br>
