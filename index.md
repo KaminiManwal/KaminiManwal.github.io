@@ -2,6 +2,16 @@
 
 ---
 
+[Rental property in Germany](/pdf/Rental.pdf) <br>
+<p style="font-size:12px"> ‘Rental property in Germany’ is a comprehensive exploration and analysis of the rental estate market in Germany. This project aims to gain insights into various aspects of rental properties, including pricing trends, location preferences, property types and more, by leveraging a rich dataset sourced from immoscout24, one of Germany’s leading real estate platforms. <br>
+The goal of the analysis was to analyse the rental estate market in Germany. To achieve this, <br>
+I conducted an EDA & describe patterns in the data such as establish correlation & decide which of them to take further. 
+Formulate a hypothesis & conduct a regression analysis to test the model.
+Conduct a cluster analysis using K-means to identify groupings in the data.
+Illustrate total rent in Germany using  geographical analysis.
+<br><br>
+<img src="images/rental.png?raw=true"/> 
+</p>
 
 [INSTACART: Marketing strategy for an online grocery store](/pdf/Instacart.pdf) <br>
 <p style="font-size:12px"> Conducted an exploratory data analysis and derive insights for improved customer segmentation, I analyzed over 800,000+ customer records. The analysis involved segmenting customer behaviors based on demographic information to optimize marketing campaigns. I performed data wrangling, merged datasets, derived new variables, and designed charts to uncover key insights. One notable finding was that the top three departments accounted for 51% of sales, while the bottom 5 departments contributed only 1% of sales. Based on these findings, it is recommended to allocate advertising efforts accordingly. Additionally, scheduling ads on the least busy days, such as Tuesday and Wednesday, can be beneficial.
@@ -41,17 +51,7 @@
 </p> 
 
  ---
-[Rental property in Germany](/pdf/Rental.pdf) <br>
-<p style="font-size:12px"> ‘Rental property in Germany’ is a comprehensive exploration and analysis of the rental estate market in Germany. This project aims to gain insights into various aspects of rental properties, including pricing trends, location preferences, property types and more, by leveraging a rich dataset sourced from immoscout24, one of Germany’s leading real estate platforms. <br>
-The goal of the analysis was to analyse the rental estate market in Germany. To achieve this, <br>
-I conducted an EDA & describe patterns in the data such as establish correlation & decide which of them to take further. 
-Formulate a hypothesis & conduct a regression analysis to test the model.
-Conduct a cluster analysis using K-means to identify groupings in the data.
-Illustrate total rent in Germany using  geographical analysis.
-<br><br>
-<img src="images/Rental.png?raw=true"/> 
-<br><br>
-<img src="images/Rental_1.png?raw=true"/> 
+
 
 ---
 
