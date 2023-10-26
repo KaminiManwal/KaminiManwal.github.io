@@ -1,9 +1,9 @@
 ## About Me
 ---
 <br>
-I am a Data analyst with a background in teaching and sales.
-My teaching experience enables me to effectively communicate complex data concepts to stakeholders, making data-driven insights accessible and actionable.
-At the same time, working in Retail, I've had the opportunity to apply my analytical skills to real-world scenarios. From optimizing inventory management to analysing sales trends, I've gained practical experience that compliments my formal education. This hands-on experience has reinforced the importance of data in driving business decisions and sparked my passion for delving deeper into the world of data analysis.
+I am a Data analyst with a background in teaching and sales.<br>
+My teaching experience enables me to effectively communicate complex data concepts to stakeholders, making data-driven insights accessible and actionable.<br>
+At the same time, working in Retail, I've had the opportunity to apply my analytical skills to real-world scenarios. From optimizing inventory management to analysing sales trends, I've gained practical experience that compliments my formal education. This hands-on experience has reinforced the importance of data in driving business decisions and sparked my passion for delving deeper into the world of data analysis.<br>
 With my strong analytical mindset and problem solving, I am enthusiastic about new opportunities to embark on a career in data analytics.
 
 ---
