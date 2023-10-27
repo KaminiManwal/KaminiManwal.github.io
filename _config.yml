@@ -14,16 +14,3 @@ description: > # your text below (remove <br> elements if you don't need line br
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
-title: Kamini Manwal # your name (or website title) here
-logo: "/Kamini pic.png?raw=true" # your photo (or logo) here
-<br>
-<a href="/pdf/resume_Kamini.pdf">Resume</a> 
-<br>
-  <a href="https://www.linkedin.com/in/kaminimanwal/">LinkedIn Profile</a> 
-  <br>
-  <a href="https://public.tableau.com/app/profile/kamini.manwal/vizzes">Tableau Profile</a> 
- <br>
-
- 
- theme: jekyll-theme-minimal
- google_analytics: UA-000000-0 # your Google Analytics tracking ID here
