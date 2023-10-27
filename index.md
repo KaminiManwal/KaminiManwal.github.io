@@ -8,9 +8,7 @@ With my strong analytical mindset and problem solving, I am enthusiastic about n
 ---
 
 ## Portfolio
-
 ---
-
 [Rental property in Germany](/pdf/Rental.pdf) <br>
 <p style="font-size:12px"> ‘Rental property in Germany’ is a comprehensive exploration and analysis of the rental estate market in Germany. This project aims to gain insights into various aspects of rental properties, including pricing trends, location preferences, property types and more, by leveraging a rich dataset sourced from immoscout24, one of Germany’s leading real estate platforms. <br>
 The goal of the analysis was to analyse the rental estate market in Germany. To achieve this, <br>
